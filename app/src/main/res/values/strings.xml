@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mcTeamGestApp</string>
+    <string name="gesteam_url">http://www.mcteam.it/gesteam_cert/login/index.php</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registration">Registrazione</string>
+</resources>

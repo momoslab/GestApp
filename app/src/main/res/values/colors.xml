@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Access button color-->
+    <color name="blue">#3498db</color>
+
+    <!-- Registration button gradient -->
+    <color name="register_upper_green">#1abc9c</color>
+    <color name="register_down_green">#16a085</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent_white">#a0ffffff</color>
+    <color name="asphalt_color">#34495e</color>
+    <color name="midnight_blue">#2c3e50</color>
+    <color name="upped_red">#e74c3c</color>
+    <color name="bottom_red">#c0392b</color>
+</resources>
